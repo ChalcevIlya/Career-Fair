@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Egor/menu.unity
+    guid: 99e22805174162147afd9881a008df17
+  - enabled: 1
+    path: Assets/Scenes/Egor/Game.unity
+    guid: ce26460e11b1a8c4cabcd0dfd3811b66
   m_configObjects: {}
