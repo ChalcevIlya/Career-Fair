@@ -1,0 +1,2292 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1415; Version 2009; 64bit' Language: 'ru' Physical Memory: 8076 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\UNITY\2020.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/ПОЛИТЕХ/ПД/Custom1.0
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+58667
+Successfully changed project path to: D:/ПОЛИТЕХ/ПД/Custom1.0
+D:/ПОЛИТЕХ/ПД/Custom1.0
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 130.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path D:/UNITY/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ПОЛИТЕХ/ПД/Custom1.0/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.21.14.4193
+Initialize mono
+Mono path[0] = 'D:/UNITY/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UNITY/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/UNITY/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UNITY/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UNITY/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001725 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 114.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.679 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1679ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (596ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (223ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (115ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004926 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.398 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1399ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1122ms)
+			LoadAssemblies (162ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (405ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (406ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (271ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3473 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.9 MB.
+System memory in use after: 120.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3904.
+Total: 3.720500 ms (FindLiveObjects: 0.383700 ms CreateObjectMapping: 0.153500 ms MarkObjects: 3.054300 ms  DeleteObjects: 0.127800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/character.fbx
+  artifactKey: Guid(fcf7fa74ddcc2de419a9845610f4fbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character.fbx using Guid(fcf7fa74ddcc2de419a9845610f4fbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc6de21c8a13bc935c78d7f2b1c8bb7') in 0.516805 seconds 
+  Import took 0.522364 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007813 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.031 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2032ms)
+		BeginReloadAssembly (234ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (1704ms)
+			LoadAssemblies (209ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (655ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (619ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (397ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.9 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3917.
+Total: 3.958400 ms (FindLiveObjects: 0.348500 ms CreateObjectMapping: 0.170500 ms MarkObjects: 3.404400 ms  DeleteObjects: 0.033900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 760.297239 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b1862aa8316bed640b7b5aff8594c7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b1862aa8316bed640b7b5aff8594c7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9501360048ab0dadca0576f52aba7dd3') in 0.015102 seconds 
+  Import took 0.022697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.124293 seconds.
+  path: Assets/Scenes/New Render Texture.renderTexture
+  artifactKey: Guid(774c35257e4e2e64eb7de19aa6d03594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Render Texture.renderTexture using Guid(774c35257e4e2e64eb7de19aa6d03594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe5bd70141ce6a4495d89ac6409f5e5') in 0.075071 seconds 
+  Import took 0.083869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.428478 seconds.
+  path: Assets/Scenes/CharacterCustom.renderTexture
+  artifactKey: Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CharacterCustom.renderTexture using Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35db0243e526d25543933ccd321cf81') in 0.023595 seconds 
+  Import took 0.032337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011676 seconds.
+  path: Assets/Scenes/CharacterCustom.renderTexture
+  artifactKey: Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CharacterCustom.renderTexture using Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35db0243e526d25543933ccd321cf81') in 0.013896 seconds 
+  Import took 0.023026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 355.277491 seconds.
+  path: Assets/Scenes/terrain.mat
+  artifactKey: Guid(788d2311454a51045996c14c08e853ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/terrain.mat using Guid(788d2311454a51045996c14c08e853ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f19ad6c816988fed664c2f3ff5d8d50') in 0.133075 seconds 
+  Import took 0.140991 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004904 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.701 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1702ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1483ms)
+			LoadAssemblies (623ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (392ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (229ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.2 MB.
+System memory in use after: 123.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3957.
+Total: 4.721100 ms (FindLiveObjects: 0.399500 ms CreateObjectMapping: 0.387700 ms MarkObjects: 3.877800 ms  DeleteObjects: 0.054700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 596.539971 seconds.
+  path: Assets/Materials/CharacterSkin_00.mat
+  artifactKey: Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterSkin_00.mat using Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059e899c565d53383e822ab89815ba3d') in 0.076334 seconds 
+  Import took 0.084602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.465728 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(487f3485942ed204ea94c8303ad8c1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(487f3485942ed204ea94c8303ad8c1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9182a924ba709d930d5f14a2469fcd9') in 0.016362 seconds 
+  Import took 0.054702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.828606 seconds.
+  path: Assets/Materials/CharacterShirt_00.mat
+  artifactKey: Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterShirt_00.mat using Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e91dadf5477e782ae481a676d31b247') in 0.022452 seconds 
+  Import took 0.131323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.393046 seconds.
+  path: Assets/Materials/CharacterPants_00.mat
+  artifactKey: Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterPants_00.mat using Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbb5af34a16bbd09f80eb05b5f68e1b') in 0.024784 seconds 
+  Import took 0.034303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.818598 seconds.
+  path: Assets/Materials/CharacterPants_00.mat
+  artifactKey: Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterPants_00.mat using Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c62ea1882ea8ab0cbd275b85b1f5135') in 0.025897 seconds 
+  Import took 0.035070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532631 seconds.
+  path: Assets/Materials/CharacterShirt_00.mat
+  artifactKey: Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterShirt_00.mat using Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a714243f99436b0421f6e965315d9979') in 0.025680 seconds 
+  Import took 0.037320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Materials/CharacterSkin_00.mat
+  artifactKey: Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CharacterSkin_00.mat using Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd84d505d9f8a2267db5650596e1a14') in 0.054884 seconds 
+  Import took 0.061096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.761534 seconds.
+  path: Assets/Scenes/CharacterCustom.renderTexture
+  artifactKey: Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CharacterCustom.renderTexture using Guid(14c6714e7f3700f4fb15a44af2c85876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1276933cd2908aa99ce54d16554fb26a') in 0.012649 seconds 
+  Import took 0.020160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Scenes/terrain.mat
+  artifactKey: Guid(788d2311454a51045996c14c08e853ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/terrain.mat using Guid(788d2311454a51045996c14c08e853ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c662358f5e54c6502f057493644312') in 0.028951 seconds 
+  Import took 0.037502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.169789 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(66b1047495fcf4a47b4ea6f64a28dc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(66b1047495fcf4a47b4ea6f64a28dc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa582d214e229f6962bcedfa9c6bbfb4') in 0.012557 seconds 
+  Import took 0.023823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052712 seconds.
+  path: Assets/Scenes/SampleScene/LightingData.asset
+  artifactKey: Guid(70c2376f527564341b26e113c31866ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/LightingData.asset using Guid(70c2376f527564341b26e113c31866ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3b77238ead333cc63fc791f25a4ee1') in 0.010339 seconds 
+  Import took 0.016505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  artifactKey: Guid(e0575bc438477fa4f8a0a6cdd463f1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(e0575bc438477fa4f8a0a6cdd463f1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709357c151ce386772d90394a3ecd654') in 0.846651 seconds 
+  Import took 0.852465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.260012 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.007180 seconds 
+  Import took 0.014312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022970 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.003609 seconds 
+  Import took 0.011148 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011470 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.729 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1730ms)
+		BeginReloadAssembly (189ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (1431ms)
+			LoadAssemblies (176ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (569ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (470ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (320ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.3 MB.
+System memory in use after: 123.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3963.
+Total: 4.549100 ms (FindLiveObjects: 0.412100 ms CreateObjectMapping: 0.216300 ms MarkObjects: 3.885700 ms  DeleteObjects: 0.033500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 185.519615 seconds.
+  path: Assets/Materials/Boots
+  artifactKey: Guid(1b770885336389b4ea0e7973a365b665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Boots using Guid(1b770885336389b4ea0e7973a365b665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af556ad0fd9c5a1ed26a668f8a95ff16') in 0.011812 seconds 
+  Import took 0.018475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.368165 seconds.
+  path: Assets/Materials/Tops
+  artifactKey: Guid(8acf505a9b3e77c4c93f35e7bb0e6cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops using Guid(8acf505a9b3e77c4c93f35e7bb0e6cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f55be2566bdcc787cf91538f25ec980') in 0.008845 seconds 
+  Import took 0.017372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.833018 seconds.
+  path: Assets/Materials/Bottoms
+  artifactKey: Guid(40df686b312e24245a16215af62145e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms using Guid(40df686b312e24245a16215af62145e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1390846e714a30ad494bf502c76353') in 0.017271 seconds 
+  Import took 0.029557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.275557 seconds.
+  path: Assets/Materials/Skins
+  artifactKey: Guid(3513132d79142b743972b5ef31164a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins using Guid(3513132d79142b743972b5ef31164a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6acba224758d52627ff1a9db990aa1ff') in 0.011627 seconds 
+  Import took 0.020359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.225979 seconds.
+  path: Assets/Materials/Hairs
+  artifactKey: Guid(07a5d652a67429f42802f71a188a41da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hairs using Guid(07a5d652a67429f42802f71a188a41da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c453a8e6cdd77f4725f26c921b8fd6a2') in 0.009839 seconds 
+  Import took 0.018918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.582964 seconds.
+  path: Assets/Materials/Hair
+  artifactKey: Guid(07a5d652a67429f42802f71a188a41da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hair using Guid(07a5d652a67429f42802f71a188a41da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a10ccc1b3cce9a6941e0f421e1d28ed') in 0.013336 seconds 
+  Import took 0.021950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.745894 seconds.
+  path: Assets/Materials/Hair/CharacterHair_00.mat
+  artifactKey: Guid(afdb7a51e0c8b3347a2fb401bcf9eedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hair/CharacterHair_00.mat using Guid(afdb7a51e0c8b3347a2fb401bcf9eedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938e2b0205bb94b85a2f58e4557c7650') in 0.121493 seconds 
+  Import took 0.134206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.236224 seconds.
+  path: Assets/Materials/Boots/CharacterBoots_00.mat
+  artifactKey: Guid(3af703ef8fecc1d47834be2211465b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Boots/CharacterBoots_00.mat using Guid(3af703ef8fecc1d47834be2211465b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0962f5f752e54f5fb943a5e3b5d7175f') in 0.022957 seconds 
+  Import took 0.093455 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005629 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.975 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1976ms)
+		BeginReloadAssembly (590ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (346ms)
+		EndReloadAssembly (1256ms)
+			LoadAssemblies (201ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (521ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (420ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (270ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.3 MB.
+System memory in use after: 123.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3967.
+Total: 3.743100 ms (FindLiveObjects: 0.386500 ms CreateObjectMapping: 0.171900 ms MarkObjects: 3.100700 ms  DeleteObjects: 0.083100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32084.031344 seconds.
+  path: Assets/Materials/Boots/CharacterBoots_01.mat
+  artifactKey: Guid(d55e818d235cbce4a95f8782280d139e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Boots/CharacterBoots_01.mat using Guid(d55e818d235cbce4a95f8782280d139e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9639ffabb121b80db729dacbb0339e') in 2.211777 seconds 
+  Import took 2.434360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.469617 seconds.
+  path: Assets/Materials/Boots/CharacterBoots_02.mat
+  artifactKey: Guid(751dba5a6a52315498ccb527666f91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Boots/CharacterBoots_02.mat using Guid(751dba5a6a52315498ccb527666f91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fe72e78a592d5c7418cc387cd4eb40') in 0.088903 seconds 
+  Import took 0.144103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.408553 seconds.
+  path: Assets/Materials/Boots/CharacterBoots_03.mat
+  artifactKey: Guid(36fa4105d37bfde499960fc42b63d617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Boots/CharacterBoots_03.mat using Guid(36fa4105d37bfde499960fc42b63d617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42515f4c6f8e92064eff188e57b47b61') in 0.093402 seconds 
+  Import took 0.215787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.822650 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_01.mat
+  artifactKey: Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_01.mat using Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32560741349b0f33b47a2c898e8fd0e8') in 0.127633 seconds 
+  Import took 0.159557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.237220 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_02.mat
+  artifactKey: Guid(401da125fb8f279499d8a711893d0c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_02.mat using Guid(401da125fb8f279499d8a711893d0c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57da95a97f54d66da6c143825dce5ec') in 0.081223 seconds 
+  Import took 0.172169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.505776 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_03.mat
+  artifactKey: Guid(c5691ebb2bbb0544fa172e569c767e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_03.mat using Guid(c5691ebb2bbb0544fa172e569c767e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f1326052d19efdbd6e39eff9d1e9f3') in 0.072324 seconds 
+  Import took 0.223844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.912072 seconds.
+  path: Assets/Materials/Hair/CharacterHair_01.mat
+  artifactKey: Guid(46bc1dc6d0e14e2458a41745b160dbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hair/CharacterHair_01.mat using Guid(46bc1dc6d0e14e2458a41745b160dbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657615b0c754e61d60a2acc2e51b0888') in 0.028486 seconds 
+  Import took 0.093150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.222201 seconds.
+  path: Assets/Materials/Hair/CharacterHair_02.mat
+  artifactKey: Guid(d5ee53cf2d2a48a45b02b8e91cb66998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hair/CharacterHair_02.mat using Guid(d5ee53cf2d2a48a45b02b8e91cb66998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ad70ff58d2551ced93b5b8e342a657') in 0.045473 seconds 
+  Import took 0.088781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.770834 seconds.
+  path: Assets/Materials/Hair/CharacterHair_03.mat
+  artifactKey: Guid(4b51734fe9636014495662fa2714fbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Hair/CharacterHair_03.mat using Guid(4b51734fe9636014495662fa2714fbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d824bbea80ee57ff77065792c1a879b') in 0.074712 seconds 
+  Import took 0.092485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.930705 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_01.mat
+  artifactKey: Guid(188a40a2c982f0147aa67c25ee123dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_01.mat using Guid(188a40a2c982f0147aa67c25ee123dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599894b6ed464d10c334487ed2f611ae') in 0.125392 seconds 
+  Import took 0.195036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.575874 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_02.mat
+  artifactKey: Guid(aa7347a11493bac4baad9ac3c7c364d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_02.mat using Guid(aa7347a11493bac4baad9ac3c7c364d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93f2aab0fd0c43d6b767e0b8a1a9512') in 0.094516 seconds 
+  Import took 0.103862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.902898 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_03.mat
+  artifactKey: Guid(7c61dbb8741413a42becf1b466512c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_03.mat using Guid(7c61dbb8741413a42becf1b466512c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036f9b9a964aefc7d66b1f07182660a7') in 0.059161 seconds 
+  Import took 0.189347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.230939 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_01.mat
+  artifactKey: Guid(5d8572ea99ad1c847b68ebf7f3728f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_01.mat using Guid(5d8572ea99ad1c847b68ebf7f3728f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f648a4497cdc78904d0322bf811d2dd0') in 0.064751 seconds 
+  Import took 0.151848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.451151 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_02.mat
+  artifactKey: Guid(722b698abd2d5fa4795a0e88fc89522d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_02.mat using Guid(722b698abd2d5fa4795a0e88fc89522d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1908c7419c5443a71bb2dc541663cc') in 0.030185 seconds 
+  Import took 0.160245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.350975 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_03.mat
+  artifactKey: Guid(8b754e3fa33384748ae2ed10afe14f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_03.mat using Guid(8b754e3fa33384748ae2ed10afe14f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf812b02b981b97f95a62f1e7f17b69') in 0.028290 seconds 
+  Import took 0.145412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7432.578111 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/While Mouse Down.png
+  artifactKey: Guid(9c5e0c84c0cd74deb9e7aec6e0a008de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/While Mouse Down.png using Guid(9c5e0c84c0cd74deb9e7aec6e0a008de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9603b66f20390e7130184339d0a0bf') in 5.948672 seconds 
+  Import took 6.005967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Sprite.png
+  artifactKey: Guid(eed7a413eeeff4ae4847accf2f339056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Sprite.png using Guid(eed7a413eeeff4ae4847accf2f339056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73496937082714ae465689d82a1fa2c9') in 0.211722 seconds 
+  Import took 0.266279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Subtract.png
+  artifactKey: Guid(cb431a40772264dec900da988de5137e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Subtract.png using Guid(cb431a40772264dec900da988de5137e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5604596acb3a9ee50f30882e008941ae') in 0.285100 seconds 
+  Import took 0.349987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Random.png
+  artifactKey: Guid(9ea7eac0accb94e3bb66e0148ae9b99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Random.png using Guid(9ea7eac0accb94e3bb66e0148ae9b99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c234abf123e004892dc3ea28285c99e') in 0.332578 seconds 
+  Import took 0.341551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable GameObject.png
+  artifactKey: Guid(02d07910e90af4f4a97c4673aa6a2e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable GameObject.png using Guid(02d07910e90af4f4a97c4673aa6a2e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ec4511eb6caa0eb41dea30472c91d9') in 0.228922 seconds 
+  Import took 0.235064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Texture2D.png
+  artifactKey: Guid(12e734bf849d44e4cbbbc5f93efb1602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Texture2D.png using Guid(12e734bf849d44e4cbbbc5f93efb1602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b779fc072f82979336af2d9c8b9afc') in 0.290872 seconds 
+  Import took 0.296571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Video Player.png
+  artifactKey: Guid(779849bfd01ee4137a25de1d76830b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Video Player.png using Guid(779849bfd01ee4137a25de1d76830b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8951d1bfab200cd78c105d71325d82a') in 0.225898 seconds 
+  Import took 0.231558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variables Reset.png
+  artifactKey: Guid(e0c5aaa1ebff34551b330cf62fe29f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variables Reset.png using Guid(e0c5aaa1ebff34551b330cf62fe29f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e647c35604b8c82211875ed40db28f') in 0.376903 seconds 
+  Import took 0.383606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Vector3.png
+  artifactKey: Guid(65680fcd6c2784aa881201f4f263b6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Vector3.png using Guid(65680fcd6c2784aa881201f4f263b6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc877411918cfe14eefa043723ebca5') in 0.206554 seconds 
+  Import took 0.212659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Transform.png
+  artifactKey: Guid(65dd2bf1e27bf4e7aaff6dc804efda64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Transform.png using Guid(65dd2bf1e27bf4e7aaff6dc804efda64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b1053e249673b8a5e9bf0a18eb4df3') in 0.142349 seconds 
+  Import took 0.149030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Number.png
+  artifactKey: Guid(6e84e88d7af084d92bc86ee52d542b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Number.png using Guid(6e84e88d7af084d92bc86ee52d542b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b3bdcad0239233cfa66790394f1385') in 0.326889 seconds 
+  Import took 0.332526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Rigidbody.png
+  artifactKey: Guid(e3938113066cb4292bcd77a2aeb14d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Rigidbody.png using Guid(e3938113066cb4292bcd77a2aeb14d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd50e793551f1659cbb95b873f5d69d3') in 0.265518 seconds 
+  Import took 0.271594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Math.png
+  artifactKey: Guid(8c2aaf2144e854efbb4b8696f2e17078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Math.png using Guid(8c2aaf2144e854efbb4b8696f2e17078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9694e29f1c354643b8a2292846544829') in 0.244742 seconds 
+  Import took 0.284469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Wait.png
+  artifactKey: Guid(022e8b5005fc4434d8780f532c5c89c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Wait.png using Guid(022e8b5005fc4434d8780f532c5c89c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8235b2ddf76bf0018995610948de0784') in 0.125057 seconds 
+  Import took 0.131090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Gizmos/GameCreator/Core/VariablesManager icon.png
+  artifactKey: Guid(3b6f5d63a0a7b449484273c7df53ecbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/VariablesManager icon.png using Guid(3b6f5d63a0a7b449484273c7df53ecbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4386a7aa7684e085191e998a08f1d410') in 0.355102 seconds 
+  Import took 0.361491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Vector2.png
+  artifactKey: Guid(5ebc6465b320f4245a3cbc9baf93d27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Vector2.png using Guid(5ebc6465b320f4245a3cbc9baf93d27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2dc91bdf79d514b8fe76404aed67f8') in 0.094949 seconds 
+  Import took 0.100354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable String.png
+  artifactKey: Guid(dee4698e3514c4daa84c5d03882fc2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable String.png using Guid(dee4698e3514c4daa84c5d03882fc2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4405a601a617c4475fcfaa2922179e') in 0.155640 seconds 
+  Import took 0.162678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Multiply.png
+  artifactKey: Guid(75250e6e62cd84cf29e1f7e7225f1757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Multiply.png using Guid(75250e6e62cd84cf29e1f7e7225f1757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8795df6985deed1a5e37e647f427f691') in 0.097209 seconds 
+  Import took 0.105460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/While Key Down.png
+  artifactKey: Guid(d6c428f96654e4b23aaf673722419845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/While Key Down.png using Guid(d6c428f96654e4b23aaf673722419845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ad39bddbadfba4960d9a04f08ad297') in 0.229993 seconds 
+  Import took 0.236757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.240649 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Color.png
+  artifactKey: Guid(dff7fd8e83e2d45f5ad1873c6a4aad39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Color.png using Guid(dff7fd8e83e2d45f5ad1873c6a4aad39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3033eff92c33d70955ed48316296938a') in 0.242223 seconds 
+  Import took 0.248820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Divide.png
+  artifactKey: Guid(5cf668caccc334da8ade1a1661ff264e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Divide.png using Guid(5cf668caccc334da8ade1a1661ff264e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663969b99bf8761b48c07eef0b6ead6a') in 0.253503 seconds 
+  Import took 0.260365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Bool.png
+  artifactKey: Guid(597132f32894940109233e55d6018388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Bool.png using Guid(597132f32894940109233e55d6018388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273c86acf822b97604a19158509e1676') in 0.346501 seconds 
+  Import took 0.352805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Unload Scene Async.png
+  artifactKey: Guid(65f09e4e7dd214cfab4d1330cc07b6d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Unload Scene Async.png using Guid(65f09e4e7dd214cfab4d1330cc07b6d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d066dbf461fb43cfc1b1d46f996ed6') in 0.353473 seconds 
+  Import took 0.360358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Bool Toggle.png
+  artifactKey: Guid(59b91cff24c3d4570b87f84c294b79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Bool Toggle.png using Guid(59b91cff24c3d4570b87f84c294b79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44310be504a6dfaba69f2fbaabacac05') in 0.240613 seconds 
+  Import took 0.246621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Add.png
+  artifactKey: Guid(b405cdfd466d14c63bfd98b80c45e003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Variable Add.png using Guid(b405cdfd466d14c63bfd98b80c45e003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63732eff55d29461d1e681912fb37e92') in 0.275561 seconds 
+  Import took 0.280651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199461 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Trigger.png
+  artifactKey: Guid(6b14fcb3d5cc64e51812915264f0d66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Trigger.png using Guid(6b14fcb3d5cc64e51812915264f0d66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7922d9e36b41462672d14b56d33c07f') in 0.116733 seconds 
+  Import took 0.185008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Gizmos/GameCreator/Core/Trigger icon.png
+  artifactKey: Guid(4604bf0d49e244a61a7370c60c43705f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/Trigger icon.png using Guid(4604bf0d49e244a61a7370c60c43705f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17b2a715538c63dc22ec61e8170a571') in 0.081736 seconds 
+  Import took 0.087714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.258648 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Rotate.png
+  artifactKey: Guid(a5c9e8ced54ee4131903df3811a09512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Rotate.png using Guid(a5c9e8ced54ee4131903df3811a09512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8db395c4ed62fe2d3147f91cc1818a3') in 0.174117 seconds 
+  Import took 0.182115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Rotate Towards.png
+  artifactKey: Guid(21762257323ba479d856f968a75a590f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Rotate Towards.png using Guid(21762257323ba479d856f968a75a590f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5949db120f97e9465c8608991e25dc0d') in 0.299478 seconds 
+  Import took 0.338948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166055 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform.png
+  artifactKey: Guid(2f08fb3ffe60544258e5586254bcfcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform.png using Guid(2f08fb3ffe60544258e5586254bcfcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522e5e87c289685336c66c67a77b51ad') in 0.135457 seconds 
+  Import took 0.167163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Move.png
+  artifactKey: Guid(fc10bbb12af834319b1166a4c9da26c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Transform Move.png using Guid(fc10bbb12af834319b1166a4c9da26c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ed36b014d96dae598090935fe29852') in 0.058876 seconds 
+  Import took 0.065394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.386723 seconds.
+  path: Assets/Plugins/GameCreator/Core/Materials/Input/TouchPanel.png
+  artifactKey: Guid(160bab76394e648f8ad4cd77ac77bdd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Core/Materials/Input/TouchPanel.png using Guid(160bab76394e648f8ad4cd77ac77bdd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fe9db9cc6e8256cc27f0072043395d') in 0.457633 seconds 
+  Import took 0.464146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Plugins/GameCreator/Core/Materials/Input/TouchStick.png
+  artifactKey: Guid(bd0c7575f59da49cbb3b0c9db64df5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Core/Materials/Input/TouchStick.png using Guid(bd0c7575f59da49cbb3b0c9db64df5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d893f6589858dc30cb6dee16812eb4b') in 0.325831 seconds 
+  Import took 0.358873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Toggle Active.png
+  artifactKey: Guid(0fff5c0c4a17d496496c7c71137fbe37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Toggle Active.png using Guid(0fff5c0c4a17d496496c7c71137fbe37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee70fbe5df1acc9ed4a9eece61b9958') in 0.151775 seconds 
+  Import took 0.182925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Gizmos/GameCreator/Core/ToggleVariable icon.png
+  artifactKey: Guid(3bf0b135b3aa749519f1a41d78fa910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/ToggleVariable icon.png using Guid(3bf0b135b3aa749519f1a41d78fa910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574b248bf530c66493ff82edca598b67') in 0.096752 seconds 
+  Import took 0.129300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Time Scale.png
+  artifactKey: Guid(0ece6f5903b83449e995dd246aa9852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Time Scale.png using Guid(0ece6f5903b83449e995dd246aa9852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5015dc9a0ab188223d07f569076c2b7d') in 0.179211 seconds 
+  Import took 0.186145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Timeline.png
+  artifactKey: Guid(a09dce1b79dfa4d66be7d0022ef06875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Timeline.png using Guid(a09dce1b79dfa4d66be7d0022ef06875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7b8d27d217bd3b1fbda7fc138d3368') in 0.160340 seconds 
+  Import took 0.192489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Time Scale.png
+  artifactKey: Guid(0ece6f5903b83449e995dd246aa9852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Time Scale.png using Guid(0ece6f5903b83449e995dd246aa9852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5015dc9a0ab188223d07f569076c2b7d') in 0.017505 seconds 
+  Import took 0.024461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.809578 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Then@personal.png
+  artifactKey: Guid(883704d1c741b494abd4f19990258dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Then@personal.png using Guid(883704d1c741b494abd4f19990258dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1186341c80586e75b2db8205c435d3') in 0.810319 seconds 
+  Import took 0.817818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Gizmos/GameCreator/Localization/TextLocalized icon.png
+  artifactKey: Guid(1ab7a058df51d4dcf855c1116a8cc386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Localization/TextLocalized icon.png using Guid(1ab7a058df51d4dcf855c1116a8cc386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c06960fa8f46569896cddbbe943dbfa') in 0.085946 seconds 
+  Import took 0.093968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Then@pro.png
+  artifactKey: Guid(36561c4a22a6a4373991420bf9a16d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Then@pro.png using Guid(36561c4a22a6a4373991420bf9a16d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32262a171a8032d5291ed959ddc1eae') in 0.120837 seconds 
+  Import took 0.128186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Gizmos/GameCreator/Variables/TextVariable icon.png
+  artifactKey: Guid(c6b611732673e42649afb086e523d8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Variables/TextVariable icon.png using Guid(c6b611732673e42649afb086e523d8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83ec4b331b53b3305934ebce022cffd') in 0.084649 seconds 
+  Import took 0.129644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.404605 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Target Camera Settings.png
+  artifactKey: Guid(4c61e94c7de214e8fab717b74dddad20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Target Camera Settings.png using Guid(4c61e94c7de214e8fab717b74dddad20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76220458c0e4f313cd16e6fb30986b86') in 1.076829 seconds 
+  Import took 1.084200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Store Mouse World Position.png
+  artifactKey: Guid(d982a7b4f0b244b6dbc8e1ea0c686218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Store Mouse World Position.png using Guid(d982a7b4f0b244b6dbc8e1ea0c686218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6000be31be9e1e9e41181977845dac') in 0.240793 seconds 
+  Import took 0.246559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Conditions/Tag.png
+  artifactKey: Guid(ff1fe19e5822d4460a8736e7cf42e20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Conditions/Tag.png using Guid(ff1fe19e5822d4460a8736e7cf42e20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30339f542fdb2b68621834420498ffa9') in 0.066628 seconds 
+  Import took 0.073166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Teleport.png
+  artifactKey: Guid(6a37d40f73e8049d7b690e4a22a324c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Teleport.png using Guid(6a37d40f73e8049d7b690e4a22a324c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7b817d08a74c954396c96545b4f577') in 0.160132 seconds 
+  Import took 0.193785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243060 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Stop Music.png
+  artifactKey: Guid(5f331f2c585a94cafb56bea5bdc5f038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Stop Music.png using Guid(5f331f2c585a94cafb56bea5bdc5f038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d44685faf63f314fba57aab8ce366f') in 0.140426 seconds 
+  Import took 0.148058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Stop Sound.png
+  artifactKey: Guid(651e406b08c9b42aca7ddc7d81450208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Stop Sound.png using Guid(651e406b08c9b42aca7ddc7d81450208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38507cdc1e34606795438bc151c636c9') in 0.038042 seconds 
+  Import took 0.149618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.712579 seconds.
+  path: Assets/Gizmos/GameCreator/SimpleMessage/SimpleMessageManager icon.png
+  artifactKey: Guid(2e58c7cbca2db4c308a30167f9cad0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/SimpleMessage/SimpleMessageManager icon.png using Guid(2e58c7cbca2db4c308a30167f9cad0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175f696836ba7ffd99c9a3f43898dca7') in 0.019044 seconds 
+  Import took 0.047329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Gizmos/GameCreator/Core/SliderVariable icon.png
+  artifactKey: Guid(613ec7706088c4cf296cc858002f3b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/SliderVariable icon.png using Guid(613ec7706088c4cf296cc858002f3b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f7be68b5908c319463542407d22e8a') in 0.328572 seconds 
+  Import took 0.334770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.724635 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Conditions/Simple Condition.png
+  artifactKey: Guid(948e969f778c543d0871ba6a3a3c1ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Conditions/Simple Condition.png using Guid(948e969f778c543d0871ba6a3a3c1ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7412d4db14dddfa00dcce0880010770b') in 0.575612 seconds 
+  Import took 0.581354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Simple Message.png
+  artifactKey: Guid(78ce470a7feb145f5b206e0d753504e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Simple Message.png using Guid(78ce470a7feb145f5b206e0d753504e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8934c7801c45fcd949b4672de19c83') in 0.151469 seconds 
+  Import took 0.159857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Set Active.png
+  artifactKey: Guid(466c89c1c3b8547a6a403cd244ecab89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Set Active.png using Guid(466c89c1c3b8547a6a403cd244ecab89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af81be777b52f65ea437d9e1d2a09e7') in 0.269999 seconds 
+  Import took 0.277643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Send Message.png
+  artifactKey: Guid(66a9f97f497b34e8d8689f382ed8da31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Send Message.png using Guid(66a9f97f497b34e8d8689f382ed8da31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685926bacd3b6aa3e1a44b8896cc77b4') in 0.244006 seconds 
+  Import took 0.250841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044670 seconds.
+  path: Assets/Gizmos/GameCreator/Core/SaveLoadManager icon.png
+  artifactKey: Guid(8315b921482334fbaa3a127a33399550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/SaveLoadManager icon.png using Guid(8315b921482334fbaa3a127a33399550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efa0e77a0eab2a3a92b2fdaec58aa05') in 0.119268 seconds 
+  Import took 0.155913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Conditions/Scene Loaded.png
+  artifactKey: Guid(c4c7d721261de42e8935fe3c16a08ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Conditions/Scene Loaded.png using Guid(c4c7d721261de42e8935fe3c16a08ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f010498eec8438b2b9437ce5d65b547') in 0.151703 seconds 
+  Import took 0.156986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.700395 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Conditions/Rigidbody.png
+  artifactKey: Guid(0097ad8bc5bf745f5b3180df6e5e649c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Conditions/Rigidbody.png using Guid(0097ad8bc5bf745f5b3180df6e5e649c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c71728082a45fc85926d3e57a69b63') in 1.235508 seconds 
+  Import took 1.311062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Rigidbody.png
+  artifactKey: Guid(05d78b1c0dbd244eb970b75b625ebc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Rigidbody.png using Guid(05d78b1c0dbd244eb970b75b625ebc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab635897d47e1d29492e1476a0d72dc') in 0.383299 seconds 
+  Import took 0.389732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Restart Actions.png
+  artifactKey: Guid(5f2d2899539ee46a8b2ffe8e13b53d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Restart Actions.png using Guid(5f2d2899539ee46a8b2ffe8e13b53d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0222d421a98d6c35aaeba49c8a455d3e') in 0.275851 seconds 
+  Import took 0.281207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Save Game.png
+  artifactKey: Guid(6b2f0bbfb4f894001a61090da25c892a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Save Game.png using Guid(6b2f0bbfb4f894001a61090da25c892a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de578bb39032b94b2074b350b64c51a') in 0.191523 seconds 
+  Import took 0.196733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243320 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Remove from List Variables.png
+  artifactKey: Guid(0dacb9b054a8a45879acb729e84d946b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Remove from List Variables.png using Guid(0dacb9b054a8a45879acb729e84d946b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea72e8a23117fcf0970874fd518f704') in 0.096485 seconds 
+  Import took 0.146768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Render Reflection Probe.png
+  artifactKey: Guid(753e1968737494bae9e703b9ac2a2c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Render Reflection Probe.png using Guid(753e1968737494bae9e703b9ac2a2c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914afbb8abed95b7c1089fc1a22fa474') in 0.097909 seconds 
+  Import took 0.102817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.973395 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Quit Game.png
+  artifactKey: Guid(985908855a8674b52a0d7304b0e453f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Quit Game.png using Guid(985908855a8674b52a0d7304b0e453f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ecf8e25a58d310057cb4e0c3ac3fe0') in 0.227248 seconds 
+  Import took 0.234366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Quality Settings.png
+  artifactKey: Guid(5c7b6a1ce3cd7466ea0ef2dfdb50faf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Quality Settings.png using Guid(5c7b6a1ce3cd7466ea0ef2dfdb50faf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2229ca660ded8cbc3ec38ca18c584bf1') in 0.404303 seconds 
+  Import took 0.412416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Components/PoolObject.png
+  artifactKey: Guid(b44de8415e6be4689b7bf63db3fa415a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Components/PoolObject.png using Guid(b44de8415e6be4689b7bf63db3fa415a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090ba10dcf60167d064a7824fb25f26b') in 0.424378 seconds 
+  Import took 0.430631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Railway Camera Settings.png
+  artifactKey: Guid(cd317bcc38df34828847af8c2c5c7eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Railway Camera Settings.png using Guid(cd317bcc38df34828847af8c2c5c7eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c560da2c6fb3003fbda841158b26be8') in 0.182010 seconds 
+  Import took 0.187748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Gizmos/GameCreator/Characters/PlayerEquipment icon.png
+  artifactKey: Guid(060963561b14349178b7773e7c8c9725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Characters/PlayerEquipment icon.png using Guid(060963561b14349178b7773e7c8c9725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e2d241fd8185702cb8109eea27046f') in 0.187209 seconds 
+  Import took 0.192694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Gizmos/GameCreator/Core/PoolManager icon.png
+  artifactKey: Guid(376a7102957f54984bca08e1191a7b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Core/PoolManager icon.png using Guid(376a7102957f54984bca08e1191a7b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e9e7cc7a02c27a04dee1214c62fe09') in 0.206955 seconds 
+  Import took 0.212777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.534476 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Player Movement Input.png
+  artifactKey: Guid(96b97eb43635148c19fb40b720ebd532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Player Movement Input.png using Guid(96b97eb43635148c19fb40b720ebd532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2463db80ea07778bdf8718d4176b38be') in 0.377546 seconds 
+  Import took 0.383492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Gizmos/GameCreator/Characters/PlayerCharacter icon.png
+  artifactKey: Guid(92f335ff1d95e4c5a93eb69897ae2b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos/GameCreator/Characters/PlayerCharacter icon.png using Guid(92f335ff1d95e4c5a93eb69897ae2b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7db72c2d92270d07d62c37d88e7572') in 0.440809 seconds 
+  Import took 0.446287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Play@personal.png
+  artifactKey: Guid(44f6694d3b67046bfa04fa1f964a088b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Play@personal.png using Guid(44f6694d3b67046bfa04fa1f964a088b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6798e8a1bf5de6613474724398552fd7') in 0.102808 seconds 
+  Import took 0.108734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Play@pro.png
+  artifactKey: Guid(56aa58f16812847179442a59cfa49ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Play@pro.png using Guid(56aa58f16812847179442a59cfa49ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc657dbba34fc86dae06ca719ec3e0d') in 0.141478 seconds 
+  Import took 0.147801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593125 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Sound.png
+  artifactKey: Guid(f335cb4548ce444cfa00b5e2e692a91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Sound.png using Guid(f335cb4548ce444cfa00b5e2e692a91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834754e2f160d44dec260935efc81b08') in 0.634196 seconds 
+  Import took 0.641776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Sound 3D.png
+  artifactKey: Guid(29f293e5b3de94540bd4c15d6f7cc5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Sound 3D.png using Guid(29f293e5b3de94540bd4c15d6f7cc5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4aeda4063ab03f4a82a7d4d05dd5a1') in 0.134484 seconds 
+  Import took 0.140416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.784349 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Physics.png
+  artifactKey: Guid(b6b735d8a291449ada2485324c0ea9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Physics.png using Guid(b6b735d8a291449ada2485324c0ea9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce64572a66399cab5fad63f42d093e41') in 0.093947 seconds 
+  Import took 0.101765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Music.png
+  artifactKey: Guid(996d54a2ab8a849498e7ddc2af048ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Play Music.png using Guid(996d54a2ab8a849498e7ddc2af048ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d7218323283e2ac88e9cba80355f92d') in 0.131360 seconds 
+  Import took 0.136897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.718468 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Pause Audio.png
+  artifactKey: Guid(4e1d1d4639f0547728bc77dce35f6ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Pause Audio.png using Guid(4e1d1d4639f0547728bc77dce35f6ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870451047e5c350785d8636d82a8d9a2') in 1.590798 seconds 
+  Import took 1.600066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Conditions/Pattern.png
+  artifactKey: Guid(0373d098b686c476b8a145ba0ddd69a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Conditions/Pattern.png using Guid(0373d098b686c476b8a145ba0ddd69a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cd2886bc56520358941f1d9f483728') in 0.117393 seconds 
+  Import took 0.125747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Pause Editor.png
+  artifactKey: Guid(a3809a45c89104a2b9e291c97ee8cf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Pause Editor.png using Guid(a3809a45c89104a2b9e291c97ee8cf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e77624e9ff10ecdaf71ac59017a7b6') in 0.104513 seconds 
+  Import took 0.111322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Paste@pro.png
+  artifactKey: Guid(3765812a06e03490c84bcd891e44439f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Paste@pro.png using Guid(3765812a06e03490c84bcd891e44439f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4bc95c1c84394de894845e11fc48d1e') in 0.103865 seconds 
+  Import took 0.110432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.611715 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Actions/Open URL.png
+  artifactKey: Guid(101f4adf8e61f415da8e0bdf85fa8833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Actions/Open URL.png using Guid(101f4adf8e61f415da8e0bdf85fa8833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c955ba1e3f3d4d85a7e1339127c79ef') in 0.325294 seconds 
+  Import took 0.330912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532935 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Utilities/Paste@personal.png
+  artifactKey: Guid(9752f57fc1ec44c7e94b884c2c0dedf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Utilities/Paste@personal.png using Guid(9752f57fc1ec44c7e94b884c2c0dedf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af17282d4a04ec117f6f2b9627abdb8') in 0.694668 seconds 
+  Import took 0.705716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Enter.png
+  artifactKey: Guid(c72bc6e30dbb243a2ad813b07592cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Enter.png using Guid(c72bc6e30dbb243a2ad813b07592cf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd17851a68fec04682bb21302b7b4e7a') in 0.178831 seconds 
+  Import took 0.184517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Stay Timeout.png
+  artifactKey: Guid(603d9652d11dc48be928e9f3c4060ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Stay Timeout.png using Guid(603d9652d11dc48be928e9f3c4060ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cd0522b1bbd65c935dce34c3d9dace') in 0.076506 seconds 
+  Import took 0.082954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Exit.png
+  artifactKey: Guid(5fd706ac023094384b7d5bc5bf669daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Trigger Exit.png using Guid(5fd706ac023094384b7d5bc5bf669daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e6dec02a36932a1f99fc76caf4d62e') in 0.076934 seconds 
+  Import took 0.083274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Variable Change.png
+  artifactKey: Guid(e20f871338d444901ae6ca87b86bd5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Variable Change.png using Guid(e20f871338d444901ae6ca87b86bd5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3d9d4c7edf28c28c055517793dc91b') in 0.054470 seconds 
+  Import took 0.062379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.241855 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Tag Enter.png
+  artifactKey: Guid(a07e9665e979242ccad722b9d690ac0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Tag Enter.png using Guid(a07e9665e979242ccad722b9d690ac0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a40213c6345701ff9cde313474a681') in 0.149509 seconds 
+  Import took 0.157358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Step.png
+  artifactKey: Guid(ad0108f2e53ec43a1a909ff1ac71f52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Step.png using Guid(ad0108f2e53ec43a1a909ff1ac71f52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f32b79655281fc4726e680ef4814c2') in 0.233320 seconds 
+  Import took 0.269383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Start.png
+  artifactKey: Guid(24eae133720974925a878874cb81fb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Start.png using Guid(24eae133720974925a878874cb81fb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccbdc6df39e3f8a1a8784bebf34321a3') in 0.228490 seconds 
+  Import took 0.259305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Tag Exit.png
+  artifactKey: Guid(f206a0e3c3fb2498ea5f02b1bacbbbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Tag Exit.png using Guid(f206a0e3c3fb2498ea5f02b1bacbbbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c7105874ed1e6c0c7c7009ef6cd532') in 0.129430 seconds 
+  Import took 0.136321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.592077 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Down.png
+  artifactKey: Guid(34b2883ab6c3f4ae88683dda8792e12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Down.png using Guid(34b2883ab6c3f4ae88683dda8792e12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078a7709d5f64e687f08c67c15d93ce3') in 0.218799 seconds 
+  Import took 0.229122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001775 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Middle Hold.png
+  artifactKey: Guid(bbd50bf6a369449a28bc2c72bafd3501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Middle Hold.png using Guid(bbd50bf6a369449a28bc2c72bafd3501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6084dba688bb2c10e154619b8318a1c7') in 0.271135 seconds 
+  Import took 0.328312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Left Hold.png
+  artifactKey: Guid(bbc6bc57f8a714c9a95b091ecb6555fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Left Hold.png using Guid(bbc6bc57f8a714c9a95b091ecb6555fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4a0c66920c5cb853b51fb2a6d643f1') in 0.159419 seconds 
+  Import took 0.181275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Right Hold.png
+  artifactKey: Guid(daff9cd8628fe42df89bb528599d1723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Right Hold.png using Guid(daff9cd8628fe42df89bb528599d1723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f69718662524388a772c648a0d71e6') in 0.096626 seconds 
+  Import took 0.147659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Right Click.png
+  artifactKey: Guid(396e2745aa61843b88a5ea4e7b458b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Right Click.png using Guid(396e2745aa61843b88a5ea4e7b458b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28dd29e173214c756fe5871a5a4f6711') in 0.159786 seconds 
+  Import took 0.167213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Up.png
+  artifactKey: Guid(9d7b6d6d20a754441bd4053bdcc961ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Up.png using Guid(9d7b6d6d20a754441bd4053bdcc961ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d1e7872f04c4f3caae1fd99d9ae9f6') in 0.069304 seconds 
+  Import took 0.076534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Middle Click.png
+  artifactKey: Guid(1a4b9eb0c28ad4ee6bfd36c5b866aff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Middle Click.png using Guid(1a4b9eb0c28ad4ee6bfd36c5b866aff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31d1ad906104928863c1593723f1464') in 0.075050 seconds 
+  Import took 0.082469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Enter.png
+  artifactKey: Guid(e653f3bb6f7634f82a44f7e59ee3e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Enter.png using Guid(e653f3bb6f7634f82a44f7e59ee3e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa5fb50f92d2149b44efc27187ba95d') in 0.161689 seconds 
+  Import took 0.169157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Left Click.png
+  artifactKey: Guid(00d3d285418414ac097b482d7d3b2876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Left Click.png using Guid(00d3d285418414ac097b482d7d3b2876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0594cfdbaa03b6b3b5e19e81c2c2b887') in 0.197678 seconds 
+  Import took 0.252379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Stay Timeout.png
+  artifactKey: Guid(dbd23e42ba8984ababb24988e697f2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Stay Timeout.png using Guid(dbd23e42ba8984ababb24988e697f2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50252d51b7d170a69aba5efd8002eb4f') in 0.164903 seconds 
+  Import took 0.173210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Enter Key.png
+  artifactKey: Guid(06adf0af96a9e411d85656935e97bf8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Enter Key.png using Guid(06adf0af96a9e411d85656935e97bf8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512fcbc668762183c7b510ca95866a0a') in 0.156619 seconds 
+  Import took 0.164440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter UI.png
+  artifactKey: Guid(97b094b6a261e4952838accc4819b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter UI.png using Guid(97b094b6a261e4952838accc4819b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ced78c1dc62205a520002f8a46359f0') in 0.101655 seconds 
+  Import took 0.108646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Down.png
+  artifactKey: Guid(34b2883ab6c3f4ae88683dda8792e12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Down.png using Guid(34b2883ab6c3f4ae88683dda8792e12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078a7709d5f64e687f08c67c15d93ce3') in 0.013196 seconds 
+  Import took 0.019828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter UI.png
+  artifactKey: Guid(97b094b6a261e4952838accc4819b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter UI.png using Guid(97b094b6a261e4952838accc4819b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ced78c1dc62205a520002f8a46359f0') in 0.013256 seconds 
+  Import took 0.021756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Exit.png
+  artifactKey: Guid(84fd2de2c515b4e0d8ff56fcf040359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Exit.png using Guid(84fd2de2c515b4e0d8ff56fcf040359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4066754fcfa7a962cbf7e3a1fae9c83') in 0.073669 seconds 
+  Import took 0.112781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Exit UI.png
+  artifactKey: Guid(8f2020f6f97404df8a66d6194f5933c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Exit UI.png using Guid(8f2020f6f97404df8a66d6194f5933c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69ea818bf4b513d49ed8dfd468ac9aa') in 0.070846 seconds 
+  Import took 0.077237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Save.png
+  artifactKey: Guid(67af972bdf52e4c9cb5b7ec338f63ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Save.png using Guid(67af972bdf52e4c9cb5b7ec338f63ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d193b38709d6b2af2dc4a6c10320b6') in 0.065835 seconds 
+  Import took 0.074104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Exit.png
+  artifactKey: Guid(daaecb07ba46d435d9e74fb696404b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Player Exit.png using Guid(daaecb07ba46d435d9e74fb696404b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d0ebc5e84978c766600672846fa421') in 0.039630 seconds 
+  Import took 0.049235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter.png
+  artifactKey: Guid(5a01544020d764bedb5d4ada727d8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter.png using Guid(5a01544020d764bedb5d4ada727d8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76f71971ba3cab5c64e9be4962223da') in 0.128023 seconds 
+  Import took 0.134665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002495 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter.png
+  artifactKey: Guid(5a01544020d764bedb5d4ada727d8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Enter.png using Guid(5a01544020d764bedb5d4ada727d8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76f71971ba3cab5c64e9be4962223da') in 0.017486 seconds 
+  Import took 0.027004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.420896 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Jump.png
+  artifactKey: Guid(c2fd12420c3714d66aa3875496e7a9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Jump.png using Guid(c2fd12420c3714d66aa3875496e7a9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee497992bf921b731b599dea5085d38') in 0.199940 seconds 
+  Import took 0.206622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Invoke.png
+  artifactKey: Guid(adfb73a310d2f421b944359a181f1ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Invoke.png using Guid(adfb73a310d2f421b944359a181f1ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ab4ec904dda29d8c7fba999f4ac3a2') in 0.104000 seconds 
+  Import took 0.112153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Load.png
+  artifactKey: Guid(e3c23069871d04ed5af17c484fdccc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Load.png using Guid(e3c23069871d04ed5af17c484fdccc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f77eae628691396fc2bc57371d5301f') in 0.060234 seconds 
+  Import took 0.067004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Event Receive.png
+  artifactKey: Guid(5ae07f0423ce54063a9e7f7af34a96d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Event Receive.png using Guid(5ae07f0423ce54063a9e7f7af34a96d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62179adb73436d8b5854f41725ca5244') in 0.049093 seconds 
+  Import took 0.055615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Hover Press Key.png
+  artifactKey: Guid(4dec6dddbf7054baaa814bcfff2b5f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Hover Press Key.png using Guid(4dec6dddbf7054baaa814bcfff2b5f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cdf1cd42cfbee3f7323f1a49d4fb98b') in 0.185109 seconds 
+  Import took 0.232907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Become Visible.png
+  artifactKey: Guid(f97cf0378ef074bb3b65fa877aa743e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Become Visible.png using Guid(f97cf0378ef074bb3b65fa877aa743e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f123a56d1182906c0fd9e9e73f35b4b0') in 0.092494 seconds 
+  Import took 0.099715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Exit.png
+  artifactKey: Guid(f326d0350a2344c51a9942f6a86a3721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Exit.png using Guid(f326d0350a2344c51a9942f6a86a3721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec0e8fbfbca179d24ffab61cb710de0') in 0.093720 seconds 
+  Import took 0.128803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Disable.png
+  artifactKey: Guid(8095149cbebcb4cbbbabb5873eaa7554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Disable.png using Guid(8095149cbebcb4cbbbabb5873eaa7554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c9f34585c24f67d915087a9198eeb9') in 0.075366 seconds 
+  Import took 0.146505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Land.png
+  artifactKey: Guid(d9a41a973a7bf4f80b02d2a874a18be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Land.png using Guid(d9a41a973a7bf4f80b02d2a874a18be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787fb9352da9cc094062628cb46b8fcd') in 0.151397 seconds 
+  Import took 0.157990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Click (World Position).png
+  artifactKey: Guid(5aa274c897d9546bb9bbc566a579bc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Mouse Click (World Position).png using Guid(5aa274c897d9546bb9bbc566a579bc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc588a2ff682143bc773bd92772ee7f') in 0.108275 seconds 
+  Import took 0.115855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Exit with Tag.png
+  artifactKey: Guid(e816549e6e5bb4f1885829443929173d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Exit with Tag.png using Guid(e816549e6e5bb4f1885829443929173d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a99d7cc6c51fe334a81ee62546ddbe') in 0.084103 seconds 
+  Import took 0.089957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Hold.png
+  artifactKey: Guid(6e1d37b1863ee4368a48075eff0bd9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Hold.png using Guid(6e1d37b1863ee4368a48075eff0bd9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f44dd54a3b01a1f765d6bd8118c3a2') in 0.049294 seconds 
+  Import took 0.071647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Down.png
+  artifactKey: Guid(e9d4df634988043a19133d4553649bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Down.png using Guid(e9d4df634988043a19133d4553649bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3165546360c2e73d9ffef13f0245fb8a') in 0.038166 seconds 
+  Import took 0.044810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Enter with Tag.png
+  artifactKey: Guid(ef67d7eecb0aa4d50b2d5a3189fe0fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Enter with Tag.png using Guid(ef67d7eecb0aa4d50b2d5a3189fe0fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e353a0f0aa1ae367a220e06cda7d0c4') in 0.161094 seconds 
+  Import took 0.167076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Up.png
+  artifactKey: Guid(7e94491828b4947138296b5c60803f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Key Up.png using Guid(7e94491828b4947138296b5c60803f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422d91b2efa6738aa430fc46740b2eac') in 0.073408 seconds 
+  Import took 0.135010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Enable.png
+  artifactKey: Guid(0d521bd7966164323868f29759efd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Enable.png using Guid(0d521bd7966164323868f29759efd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd236c34a38b4fca8489de1c70f3d7f9') in 0.052735 seconds 
+  Import took 0.058918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Hover Hold Key.png
+  artifactKey: Guid(2973d117e74be49a0897d3d399a9c6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Hover Hold Key.png using Guid(2973d117e74be49a0897d3d399a9c6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf316e15fa77a148213b9ed78c89ae62') in 0.072120 seconds 
+  Import took 0.081664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/Default.png
+  artifactKey: Guid(317ba192acbf54e9cb021241aa8c6c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/Default.png using Guid(317ba192acbf54e9cb021241aa8c6c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ca6abf8d4b87469c70c49a348d3c23') in 0.059458 seconds 
+  Import took 0.065626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Enter.png
+  artifactKey: Guid(a7f5ae965b3904a6b84453196d1293c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Collision Enter.png using Guid(a7f5ae965b3904a6b84453196d1293c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13987e5f9330fac59a4cd800abfbe14a') in 0.021326 seconds 
+  Import took 0.029361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Cursor Raycast.png
+  artifactKey: Guid(832cb15273c3d47cc859853f043feb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Cursor Raycast.png using Guid(832cb15273c3d47cc859853f043feb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '365f4448d17067532080673fc91b5ab2') in 0.042804 seconds 
+  Import took 0.051964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Become Invisible.png
+  artifactKey: Guid(058ae28ff7fa8429fa79d60a09ee0f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/On Become Invisible.png using Guid(058ae28ff7fa8429fa79d60a09ee0f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0837ccbb548a9de76849a447b5916ac0') in 0.092051 seconds 
+  Import took 0.097671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.594861 seconds.
+  path: Assets/next.png
+  artifactKey: Guid(f44bf35b9eab8cb4cb705483e65ddc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/next.png using Guid(f44bf35b9eab8cb4cb705483e65ddc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13510eb5f7022040b50982aa5a766f93') in 0.200174 seconds 
+  Import took 0.206530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.438282 seconds.
+  path: Assets/Plugins/GameCreator/Extra/Icons/Igniters/next.png
+  artifactKey: Guid(efe397b5d21d6d545a924b0fac86c84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GameCreator/Extra/Icons/Igniters/next.png using Guid(efe397b5d21d6d545a924b0fac86c84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ad203a1712ad9a933f9140f9637217') in 0.011745 seconds 
+  Import took 0.019903 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017247 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 5.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 14.719 seconds
+Domain Reload Profiling:
+	ReloadAssembly (15203ms)
+		BeginReloadAssembly (9868ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2871ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (13ms)
+			CreateAndSetChildDomain (3858ms)
+		EndReloadAssembly (4672ms)
+			LoadAssemblies (491ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1035ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (2627ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (41ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (209ms)
+				ProcessInitializeOnLoadAttributes (1959ms)
+				ProcessInitializeOnLoadMethodAttributes (408ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.4 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3974.
+Total: 4.832400 ms (FindLiveObjects: 0.553100 ms CreateObjectMapping: 0.313000 ms MarkObjects: 3.897200 ms  DeleteObjects: 0.067900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005832 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1357ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1134ms)
+			LoadAssemblies (142ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (484ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (382ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (265ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3977.
+Total: 4.643300 ms (FindLiveObjects: 0.522100 ms CreateObjectMapping: 0.164600 ms MarkObjects: 3.915700 ms  DeleteObjects: 0.039900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5795.637270 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_04.mat
+  artifactKey: Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_04.mat using Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6632f3dfad549a51b21ef1f77c917c8') in 0.378418 seconds 
+  Import took 0.433498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.620622 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_00.mat
+  artifactKey: Guid(188a40a2c982f0147aa67c25ee123dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_00.mat using Guid(188a40a2c982f0147aa67c25ee123dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa20bf59ff4d34e09f444ee17ec69e7') in 0.069350 seconds 
+  Import took 0.136412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.622462 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_01.mat
+  artifactKey: Guid(aa7347a11493bac4baad9ac3c7c364d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_01.mat using Guid(aa7347a11493bac4baad9ac3c7c364d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b529068c6514e664edcf7845be940014') in 0.012077 seconds 
+  Import took 0.073171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.641558 seconds.
+  path: Assets/Materials/Bottoms/CharacterPants_02.mat
+  artifactKey: Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bottoms/CharacterPants_02.mat using Guid(dfc48610578248b4f96dc53c92d1035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7b8d68fd967c13b5ae5f5186c0fbc6') in 0.012335 seconds 
+  Import took 0.604581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005467 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.705 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1706ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1216ms)
+			LoadAssemblies (322ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (382ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (378ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3981.
+Total: 3.931400 ms (FindLiveObjects: 0.422300 ms CreateObjectMapping: 0.192200 ms MarkObjects: 3.246300 ms  DeleteObjects: 0.069600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 745.551921 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_0.mat
+  artifactKey: Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_0.mat using Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51788be1adb517ad084cd72b644c5bd') in 0.061310 seconds 
+  Import took 0.083330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.154875 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_01.mat
+  artifactKey: Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_01.mat using Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756be971c2cfad93ec564fb52b9d1c6b') in 0.018192 seconds 
+  Import took 0.026326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009562 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_01.mat
+  artifactKey: Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_01.mat using Guid(7b8dc792624b3914eb75782d483bc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756be971c2cfad93ec564fb52b9d1c6b') in 0.035494 seconds 
+  Import took 0.044767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.201973 seconds.
+  path: Assets/Materials/Skins/CharacterSkin_00.mat
+  artifactKey: Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skins/CharacterSkin_00.mat using Guid(f454b1d427f405540be4db0ea359af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8689e757b58e398bba506a3fe907d4d') in 0.019619 seconds 
+  Import took 0.087977 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005807 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1314ms)
+		BeginReloadAssembly (137ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1110ms)
+			LoadAssemblies (147ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (432ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (390ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3985.
+Total: 4.263700 ms (FindLiveObjects: 0.346000 ms CreateObjectMapping: 0.177700 ms MarkObjects: 3.663200 ms  DeleteObjects: 0.075600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 307.266471 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_0.mat
+  artifactKey: Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_0.mat using Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de7566006acd75f2405152732e9f98c') in 0.066167 seconds 
+  Import took 0.095172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.414336 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_00.mat
+  artifactKey: Guid(5d8572ea99ad1c847b68ebf7f3728f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_00.mat using Guid(5d8572ea99ad1c847b68ebf7f3728f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fdb29a02a9ccc9caafabacb4f05330') in 0.009611 seconds 
+  Import took 0.114289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.402128 seconds.
+  path: Assets/Materials/Tops/CharacterShirt_01.mat
+  artifactKey: Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tops/CharacterShirt_01.mat using Guid(beba1a83801110046b8bdaee0b0bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9edbf1849da5d69ac64e4aaab854c60') in 0.016088 seconds 
+  Import took 0.127126 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008956 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.308 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3308ms)
+		BeginReloadAssembly (519ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (84ms)
+		EndReloadAssembly (2495ms)
+			LoadAssemblies (586ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (825ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (899ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (673ms)
+				ProcessInitializeOnLoadMethodAttributes (67ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (132ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3989.
+Total: 9.924100 ms (FindLiveObjects: 1.802000 ms CreateObjectMapping: 0.793500 ms MarkObjects: 7.265600 ms  DeleteObjects: 0.060500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015666 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.616 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3617ms)
+		BeginReloadAssembly (362ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (96ms)
+		EndReloadAssembly (3058ms)
+			LoadAssemblies (383ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1244ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (166ms)
+			SetupLoadedEditorAssemblies (975ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (190ms)
+				ProcessInitializeOnLoadAttributes (677ms)
+				ProcessInitializeOnLoadMethodAttributes (73ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3992.
+Total: 6.131500 ms (FindLiveObjects: 0.528500 ms CreateObjectMapping: 0.312500 ms MarkObjects: 5.244600 ms  DeleteObjects: 0.044300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014555 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ПОЛИТЕХ\ПД\Custom1.0\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.302 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4302ms)
+		BeginReloadAssembly (522ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (265ms)
+		EndReloadAssembly (3562ms)
+			LoadAssemblies (388ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1235ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (106ms)
+			SetupLoadedEditorAssemblies (1517ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (174ms)
+				ProcessInitializeOnLoadAttributes (1083ms)
+				ProcessInitializeOnLoadMethodAttributes (230ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (39ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3995.
+Total: 8.144900 ms (FindLiveObjects: 0.590400 ms CreateObjectMapping: 0.392100 ms MarkObjects: 7.110600 ms  DeleteObjects: 0.049700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
